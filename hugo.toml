@@ -1,4 +1,4 @@
-baseURL = 'https://mmandersheid.github.io/Thursday2/'
+baseURL = "https://mmandersheid.github.io/Thursday2/"
 languageCode = 'en-us'
 theme = "hugo-theme-console"
 title = 'Thursday'
