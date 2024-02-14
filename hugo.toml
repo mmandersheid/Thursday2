@@ -1,7 +1,7 @@
 baseURL = 'https://mmandersheid.github.io/Thursday2/'
 languageCode = 'en-us'
 theme = "hugo-theme-console"
-title = 'Thursday'
+title = 'Thursday2'
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
@@ -23,7 +23,3 @@ title = 'Thursday'
   name = "photos/"
   url = "photos/"
 
-[module]
-
-  [[module.imports]]
-    path = "github.com/mrmierzejewski/hugo-theme-console"
