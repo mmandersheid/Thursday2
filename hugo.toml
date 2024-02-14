@@ -22,3 +22,8 @@ title = 'Thursday'
   [[params.navlinks]]
   name = "photos/"
   url = "photos/"
+
+[module]
+
+  [[module.imports]]
+    path = "github.com/mrmierzejewski/hugo-theme-console"
